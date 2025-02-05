@@ -3,6 +3,8 @@
 ## Description
 "Code to Character" is a Java-based project that uses the `Graphics` API to build a character out of code. By drawing shapes, applying colors, and manipulating graphics, I created a customizable character. The project showcases the integration of creativity and programming to design unique characters.
 
+![Powerpuff](powerpuff.png)
+
 ## Features
 - Customizable character design
 - Use of Java's `Graphics` API for drawing shapes and colors
